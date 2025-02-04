@@ -1,0 +1,79 @@
+[33mcommit de41df9f5c9da45e4b4c5637c4da03404a4b16b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 99b47a4 a2477e9
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:27:01 2025 +0530
+
+    code conflict
+
+[33mcommit 99b47a4ac465899c1e22c6faabbc60cc1af48dcb[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:26:28 2025 +0530
+
+    code conflict
+
+[33mcommit a2477e90ac86e087df75a432b064480a06370c00[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:23:30 2025 +0530
+
+    Update file123
+
+[33mcommit 68cd1615d191e4ab7187ff9c1dd06fb6dc61a0ae[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:18:53 2025 +0530
+
+    Update code conflict
+
+[33mcommit b677e82311ff6fc250c622067fd0d40576a63f5c[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:13:13 2025 +0530
+
+    Update code conflict
+
+[33mcommit b5575ec9b537f9b1d68afb01f53d55482e4cafe8[m
+Merge: 6b31a43 1de8e27
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 13:07:56 2025 +0530
+
+    the code is merged
+
+[33mcommit 6b31a436058fea5a1e22023e6de0ebd18b9477f7[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 12:59:50 2025 +0530
+
+    merged
+
+[33mcommit 1de8e27a876eb85114107e1f0f178e1bf532ace6[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 12:55:49 2025 +0530
+
+    Create code conflict
+
+[33mcommit 415c03d126ecf14bca3df2ce4aad384264d92567[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 12:44:15 2025 +0530
+
+    merging
+
+[33mcommit e24eab38f575b6fcb9978e126147ef6c85bfe941[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 12:38:18 2025 +0530
+
+    Create conflicts
+
+[33mcommit 6f3cb1cd4aa4689b0ca61f7656ee58836bd722d2[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Tue Feb 4 12:23:36 2025 +0530
+
+    Create git conflict
+
+[33mcommit 16f62fed01d3896aa6b87ff7c9405c53ec4b5d21[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Mon Feb 3 13:17:39 2025 +0530
+
+    file123 added
+
+[33mcommit ce68ca3ab73427545f846e93775826200c6eafb9[m
+Author: supriya50 <supriyaanuchuri50@gmail.com>
+Date:   Sat Feb 1 11:38:44 2025 +0530
+
+    Initial commit
