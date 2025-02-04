@@ -2,4 +2,11 @@ git
 github
 jenkins
 dockers
+<<<<<<< HEAD
 grafana
+=======
+aws 
+devops
+mainframes
+python
+>>>>>>> a2477e90ac86e087df75a432b064480a06370c00
